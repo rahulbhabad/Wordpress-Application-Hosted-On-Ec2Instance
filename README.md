@@ -1,4 +1,4 @@
-# Wordpress-Application-Hosted-On-Ec2Instance
+![Screenshot (9)](https://github.com/user-attachments/assets/a0d4f281-742f-4970-b178-c635c0cb9de3)![Screenshot (9)](https://github.com/user-attachments/assets/9864f9dc-81fc-4007-8351-d7a8a6bb2df8)# Wordpress-Application-Hosted-On-Ec2Instance
 
 # AWS Cloud Platform:-
 Amazon Web Services (AWS) is a flexible and
@@ -24,8 +24,7 @@ server, including all your data.
 ### Install LAMP Stack (Linux, Apache, MySQL, PHP): 
 Select ubuntu AMI and launch Ec2 instance Install
 
-<img width="468" alt="image" src="![Screenshot (9)](https://github.com/user-attachments/assets/d4dd7479-76ca-4f51-ac0c-afe76098b8c5)
-" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/2b0efa74-ced9-4acc-a063-5c5924f6a920" />
 
 ````
 apt update -y
