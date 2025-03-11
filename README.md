@@ -166,6 +166,8 @@ Fill all the details to create wordpress user.
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/0ea29c57-fa16-47e7-b4de-3decfd5778b2" />
 
+
+
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/f3df86c8-0f70-4e11-819b-93f48824ea9d" />
 
 
