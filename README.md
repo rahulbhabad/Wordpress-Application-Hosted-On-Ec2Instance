@@ -24,7 +24,8 @@ server, including all your data.
 ### Install LAMP Stack (Linux, Apache, MySQL, PHP): 
 Select ubuntu AMI and launch Ec2 instance Install
 
-<img width="468" alt="image" src=""C:\Users\91876\Pictures\Screenshots\Screenshot (9).png"" />
+<img width="468" alt="image" src="![Screenshot (9)](https://github.com/user-attachments/assets/d4dd7479-76ca-4f51-ac0c-afe76098b8c5)
+" />
 
 ````
 apt update -y
