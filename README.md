@@ -1,4 +1,4 @@
-# $${\color{red} \textbf {Wordpress-Application-Hosted-On-Ec2Instance}
+# $${\color{red}\textbf {Wordpress-Application-Hosted-On-Ec2Instance}
 
 **AWS Cloud Platform:-**Amazon Web Services (AWS) is a flexible and
 secure on-demand cloud computing platform. Think of it as renting a
