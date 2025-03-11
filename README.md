@@ -1,15 +1,13 @@
-![Screenshot (9)](https://github.com/user-attachments/assets/a0d4f281-742f-4970-b178-c635c0cb9de3)![Screenshot (9)](https://github.com/user-attachments/assets/9864f9dc-81fc-4007-8351-d7a8a6bb2df8)# Wordpress-Application-Hosted-On-Ec2Instance
+#$${\color{red}\textbf {Wordpress-Application-Hosted-On-Ec2Instance}
 
-# AWS Cloud Platform:-
-Amazon Web Services (AWS) is a flexible and
+**AWS Cloud Platform:-**Amazon Web Services (AWS) is a flexible and
 secure on-demand cloud computing platform. Think of it as renting a
 bunch of computers to do with them as you wish, including setting up a
 server to host your WordPress website. AWS uses a pay-as-you-go
 pricing model, so you’ll only pay for the cloud infrastructure and
 resources you end up using. Depending on your use case, this can be a
 huge advantage.
-# WordPress Used for:-
-"WordPress is a factory that makes webpages" is
+**WordPress Used for:-**"WordPress is a factory that makes webpages" is
 a core analogy designed to clarify the functions of WordPress: it stores
 content and enables a user to create and publish webpages, requiring
 nothing beyond a domain and a hosting service. WordPress has a web
@@ -153,7 +151,7 @@ http://<public ip of ec2 instance>/wordpress/
 #### Create user 
 Fill all the details to create wordpress user.
 
-<img width="465" alt="image" src="https://github.com/user-attachments/assets/d29fd1e7-3807-479c-93a2-0b167761c429" />
+<img width="465" alt="image" src="https://github.com/user-attachments/assets/4de2fffb-3fe9-43c8-ab23-708be0560024" />
 
 
 <img width="469" alt="image" src="https://github.com/user-attachments/assets/7404417a-ffa0-4bec-8514-27dc71d85db9" />
@@ -166,10 +164,10 @@ Fill all the details to create wordpress user.
 #### Creation of blog By logging into wordpress you can create blog.
 
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/1c290577-c950-4bf5-9333-e178741f7a1d" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/0ea29c57-fa16-47e7-b4de-3decfd5778b2" />
 
 
-<img width="467" alt="image" src="https://github.com/user-attachments/assets/e01d9562-1878-4caf-8192-ec6444012843" />
+<img width="467" alt="image" src="https://github.com/user-attachments/assets/f3df86c8-0f70-4e11-819b-93f48824ea9d" />
 
 
 
